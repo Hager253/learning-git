@@ -1,2 +1,4 @@
 "sourceFolder" 
 this folder is about learning git and github 
+resources github books 
+w3school website
